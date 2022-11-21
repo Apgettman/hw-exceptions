@@ -1,3 +1,5 @@
+package exceptions;
+
 public class Main {
     public static void main(String[] args) {
         boolean success = Data.validate("test", "test", "test1");

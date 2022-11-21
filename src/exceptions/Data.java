@@ -1,5 +1,7 @@
+package exceptions;
 
 public class Data {
+
     private static final String VALID_CHARACTERS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_";
 
     private Data() {
